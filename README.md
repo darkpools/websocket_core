@@ -1,6 +1,6 @@
 # Websocket Core (Rust)
 
-![Build Status](https://github.com/bitwyre/websocket_core/workflows/Build/badge.svg)
+![Build Status](https://github.com/darkpools/websocket_core/workflows/Build/badge.svg)
 
 Websocket generic server library for:
 
